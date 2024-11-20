@@ -6,10 +6,15 @@ For over 4 years, I’ve been a software consultant at Tyler Technologies, helpi
 
 📚 Current Projects:
 
-Ukraine Impact: A neutral analysis platform featuring an Obsidian-style visual graph, automatically aggregating and connecting articles on Ukraine from RSS feeds. Users can comment, upvote, and explore relationships between articles in a continuously growing, data-driven resource.
-T&C Decoder Tool: Simplifying the complex world of terms and conditions.
-Nameparse.me: A web app that dynamically parses large name datasets into structured components, designed to handle even the trickiest formats.
-🌏 I’ve explored the world—Japan, Ecuador, France, Italy, Poland, and Ukraine (April 2024)—and am deeply committed to supporting Ukraine’s sovereignty.
+1. Ukraine Impact: A neutral analysis platform featuring an Obsidian-style visual graph, automatically aggregating and connecting articles on Ukraine from RSS feeds. Users can comment, upvote, and explore relationships between articles in a continuously growing, data-driven resource.
+
+2. T&C Decoder Tool: Simplifying the complex world of terms and conditions.
+
+3. Nameparse.me: A web app that dynamically parses large name datasets into structured components, designed to handle even the trickiest formats.
+
+🌏 I’m travelling the world—Japan, Ecuador, France, Italy, Poland, and Ukraine (April 2024)—and look forward to being lifelong global traveller.
+
+🇺🇦 I am deeply committed to supporting Ukraine’s sovereignty.
 
 ✨ Fueled by the boundless curiosity and creativity of ADHD, I thrive on turning ambitious ideas into detailed, actionable projects.
 
