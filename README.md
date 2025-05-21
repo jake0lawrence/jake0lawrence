@@ -12,13 +12,13 @@ For over 4 years, I’ve been a software consultant at Tyler Technologies, helpi
 
 3. Nameparse.me: A web app that dynamically parses large name datasets into structured components, designed to handle even the trickiest formats.
 
-🌏 I’m travelling the world—Japan, Ecuador, France, Italy, Poland, and Ukraine (April 2024)—and look forward to being lifelong global traveller.
+🌏 I’m travelling the world—Japan, Ecuador, France, Italy, Poland, and Ukraine (April 2024)—and look forward to being a lifelong global traveller.
 
 🇺🇦 I am deeply committed to supporting Ukraine’s sovereignty.
 
 ✨ Fueled by the boundless curiosity and creativity of ADHD, I thrive on turning ambitious ideas into detailed, actionable projects.
 
-📫 Reach me at jakealanlawrence@gmail.com or via SMS at (815) 307-2086.
+📫 Reach me at jakealanlawrence@gmail.com or via SMS at (815) 307-2708.
 
 <!---
 jake0lawrence/jake0lawrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
