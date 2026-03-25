@@ -1,31 +1,21 @@
+# Jake Lawrence
 
+I build interactive research essays, educational games, and civic tools. Most of my work is about the same thing: how classification systems shape what they claim to measure, and how to make that visible.
 
-# Hi, I'm Jake Lawrence
+**[jakelawrence.xyz](https://jakelawrence.xyz)**
 
-I build interactive research tools, educational games, and civic technology. My work lives at the intersection of classification systems, AI product design, and public institutions.
+My essays are React components, not static pages. Scroll-triggered arguments, interactive evidence panels, performative reveals. The format is the argument.
 
-**Currently:** Customer Success Engagement Specialist at TransUnion | Independent researcher and builder at [jakelawrence.xyz](https://jakelawrence.xyz)
+- **The New Sorting Hat** — AI writing detection as classification infrastructure
+- **The Sorting Machine** — Special education classification and the categories it produces
+- **Stance Design** — AI sycophancy as a design problem
 
-## What I'm Working On
+These belong to an independent research program called Invisible Architecture, applying Bowker and Star's infrastructure theory across AI, education policy, and institutional design. Each essay ships with a companion academic PDF via a custom LuaLaTeX pipeline.
 
-**Interactive Research Essays** — Long-form arguments built as React components with scroll-triggered animations, interactive evidence, and performative reveals. Recent work includes "The New Sorting Hat" (AI writing detection as classification infrastructure) and "The Sorting Machine" (special education classification systems). Each ships with a companion academic PDF.
+The games: **Build-a-Model** (assemble an LLM to learn how one works), **Teach Me Mahjong** (full engine, RPG save system, family leaderboard), **Coal Dust and County Lines** (a century of Southern Illinois population mapped for my grandfather), plus a dozen more covering graph theory, game theory, and probability.
 
-**Educational Games** — A growing collection at jakelawrence.xyz: Build-a-Model (LLM architecture), Teach Me Mahjong, Coal Dust and County Lines (Southern Illinois population history), and a suite of math concept games covering graph theory, game theory, and combinatorics.
+Customer Success Engagement Specialist at TransUnion working within their Global Delivery team. Previously 5 years at Tyler Technologies implementing court software across 100+ Illinois municipalities. MPA, Northern Illinois University.
 
-**Civic Technology** — Building tools and strategy around community development in suburban Illinois.
-
-## Background
-
-MPA from Northern Illinois University. 5 years at Tyler Technologies implementing court management software across 100+ Illinois municipalities, with prior local government experience at the Villages of Morton Grove and Itasca. That work gave me a deep understanding of how classification systems shape institutions from the inside.
-
-## Research Program
-
-My independent research program, "Invisible Architecture," applies Bowker and Star's classification infrastructure theory across AI systems, education policy, and institutional design. The through-line: identifying the missing layer between systems.
-
-## Tech
-
-Next.js 15, React, TypeScript, Vercel, LuaLaTeX for academic PDFs. Past projects include Atlas (AI conversation knowledge extraction), Keymaster (AI-native password manager), and SAGEN/LLM-QP (situational awareness and cost-based query planning for LLM inference).
-
-## Get in Touch
+Next.js 15 · React · TypeScript · Vercel · LuaLaTeX · Python · FastAPI · PostgreSQL
 
 jakealanlawrence@gmail.com
