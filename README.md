@@ -1,26 +1,31 @@
-👋 Hi, I’m Jake Lawrence
-🌍 A globally curious tech enthusiast and implementation consultant with a passion for building tools that solve real-world problems.
+**jake0lawrence/README.md**
 
-💻 Professional Background:
-For over 4 years, I’ve been a software consultant at Tyler Technologies, helping municipal courts migrate from legacy systems to modern enterprise solutions. My role as an Implementation Consultant spans data discovery, migration, workflow design, automation, and training. With over 50 go-lives under my belt, I empower courts to transition seamlessly into the future.
+# Hi, I'm Jake Lawrence
 
-📚 Current Projects:
+I build interactive research tools, educational games, and civic technology. My work lives at the intersection of classification systems, AI product design, and public institutions.
 
-1. Ukraine Impact: A neutral analysis platform featuring an Obsidian-style visual graph, automatically aggregating and connecting articles on Ukraine from RSS feeds. Users can comment, upvote, and explore relationships between articles in a continuously growing, data-driven resource.
+**Currently:** Customer Success Engagement Specialist at TransUnion | Independent researcher and builder at [jakelawrence.xyz](https://jakelawrence.xyz)
 
-2. T&C Decoder Tool: Simplifying the complex world of terms and conditions.
+## What I'm Working On
 
-3. Nameparse.me: A web app that dynamically parses large name datasets into structured components, designed to handle even the trickiest formats.
+**Interactive Research Essays** — Long-form arguments built as React components with scroll-triggered animations, interactive evidence, and performative reveals. Recent work includes "The New Sorting Hat" (AI writing detection as classification infrastructure) and "The Sorting Machine" (special education classification systems). Each ships with a companion academic PDF.
 
-🌏 I’m travelling the world—Japan, Ecuador, France, Italy, Poland, and Ukraine (April 2024)—and look forward to being a lifelong global traveller.
+**Educational Games** — A growing collection at jakelawrence.xyz: Build-a-Model (LLM architecture), Teach Me Mahjong, Coal Dust and County Lines (Southern Illinois population history), and a suite of math concept games covering graph theory, game theory, and combinatorics.
 
-🇺🇦 I am deeply committed to supporting Ukraine’s sovereignty.
+**Civic Technology** — Building tools and strategy around community development in suburban Illinois.
 
-✨ Fueled by the boundless curiosity and creativity of ADHD, I thrive on turning ambitious ideas into detailed, actionable projects.
+## Background
 
-📫 Reach me at jakealanlawrence@gmail.com or via SMS at (815) 307-2708.
+MPA from Northern Illinois University. 5 years at Tyler Technologies implementing court management software across 100+ Illinois municipalities, with prior local government experience at the Villages of Morton Grove and Itasca. That work gave me a deep understanding of how classification systems shape institutions from the inside.
 
-<!---
-jake0lawrence/jake0lawrence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Research Program
+
+My independent research program, "Invisible Architecture," applies Bowker and Star's classification infrastructure theory across AI systems, education policy, and institutional design. The through-line: identifying the missing layer between systems.
+
+## Tech
+
+Next.js 15, React, TypeScript, Vercel, LuaLaTeX for academic PDFs. Past projects include Atlas (AI conversation knowledge extraction), Keymaster (AI-native password manager), and SAGEN/LLM-QP (situational awareness and cost-based query planning for LLM inference).
+
+## Get in Touch
+
+jakealanlawrence@gmail.com
